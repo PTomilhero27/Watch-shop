@@ -36,6 +36,10 @@
 ## O que não consegui fazer
 - Eu acredito que consegui fazer tudo o que me pediram.
 
+- **Não é o que eu nao consegui fazer, porem não fiz mas eu sei fazer uma SPA**
+  **uma Single page aplication como o layout nao fala mais uma pagina então achei**
+  **que nao precisava mas eu sei com React-router-dom**
+
 
 ## Considerações finais sobre o projeto
 Conte para nós aqui o que você sentiu ao fazer o projeto e quais dificuldades teve ao longo do desenvolvimento...
