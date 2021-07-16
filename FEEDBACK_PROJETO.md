@@ -34,7 +34,7 @@
   foi feito.
 
 ## O que não consegui fazer
-- Eu acredito que consegui fazer tudo o que me pediram...
+- Eu acredito que consegui fazer tudo o que me pediram.
 
 
 ## Considerações finais sobre o projeto
